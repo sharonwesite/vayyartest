@@ -36,7 +36,7 @@ Igal
 $$$$$$$$$$$$$^^^^^^^^^###########@@@@@@@@@@@@@@@@@@
 
 
-I created a Flask project
+I created a Flask project Download the zip file of the project and open it in IDE.
 The project has an app.py file that needs to be run and then we will get the address of a local server
 When we open the server in the browser, we will be ready to upload the log file and by clucking the button 
 the code will run on the log file and tell us how many seconds the man was next to the chair
